@@ -2739,14 +2739,14 @@
         },
         {
             "id": 251,
-            "name": "HockeyMonkey Appeasement Decay",
+            "name": "HockeyMonkey Appreciation Badge",
             "URL": "http://dl.dropbox.com/u/3784170/Icons/badge2.gif",
             "comment": "award when hockey says so",
             "title_tag": "Johnny Blaze!",
             "link": "",
             "created_at": "2011-12-01 17:57:47",
             "updated_at": "2011-12-01 17:58:52",
-            "category_tags": ["unique", "unobtainable"]
+            "category_tags": ["unique", "obtainable"]
         },
         {
             "id": 252,
